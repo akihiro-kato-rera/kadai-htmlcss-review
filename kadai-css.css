@@ -13,7 +13,8 @@ p{
 }
 
 #wrapper{
-    margin:0 auto;
+    width:1000px;
+    margin:0;
     display:flex;
     justify-content:start;
 
